@@ -1,0 +1,33 @@
+C:\Users\mdsaz\source\repos\Hospital Management System\bin\Debug\Hospital Management System.exe.config
+C:\Users\mdsaz\source\repos\Hospital Management System\bin\Debug\Hospital Management System.exe
+C:\Users\mdsaz\source\repos\Hospital Management System\bin\Debug\Hospital Management System.pdb
+C:\Users\mdsaz\source\repos\Hospital Management System\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\mdsaz\source\repos\Hospital Management System\obj\Debug\Hospital Management System.csproj.AssemblyReference.cache
+C:\Users\mdsaz\source\repos\Hospital Management System\obj\Debug\Hospital Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\mdsaz\source\repos\Hospital Management System\obj\Debug\Hospital_Management_System.Properties.Resources.resources
+C:\Users\mdsaz\source\repos\Hospital Management System\obj\Debug\Hospital Management System.csproj.GenerateResource.cache
+C:\Users\mdsaz\source\repos\Hospital Management System\obj\Debug\Hospital Management System.csproj.CoreCompileInputs.cache
+C:\Users\mdsaz\source\repos\Hospital Management System\obj\Debug\Hospital Management System.csproj.CopyComplete
+C:\Users\mdsaz\source\repos\Hospital Management System\obj\Debug\Hospital Management System.exe
+C:\Users\mdsaz\source\repos\Hospital Management System\obj\Debug\Hospital Management System.pdb
+C:\Users\mdsaz\source\repos\Hospital Management System\obj\Debug\Hospital_Management_System.FormLogIn.resources
+C:\Users\mdsaz\source\repos\Hospital Management System\obj\Debug\Hospital_Management_System.FormAddDoctor.resources
+C:\Users\mdsaz\source\repos\Hospital Management System\obj\Debug\Hospital_Management_System.FormDoctorList.resources
+C:\Users\mdsaz\source\repos\Hospital Management System\obj\Debug\Hospital_Management_System.Home.resources
+C:\Users\mdsaz\source\repos\Hospital Management System\obj\Debug\Hospital_Management_System.AddPatient.resources
+C:\Users\mdsaz\source\repos\Hospital Management System\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\mdsaz\source\repos\Hospital Management System\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\mdsaz\source\repos\Hospital Management System\obj\Debug\Hospital_Management_System.FormAddSchedule.resources
+C:\Users\mdsaz\source\repos\Hospital Management System\obj\Debug\Hospital_Management_System.FormAddAppointment.resources
+C:\Users\mdsaz\source\repos\Hospital Management System\obj\Debug\Hospital_Management_System.FormAddEmployee.resources
+C:\Users\mdsaz\source\repos\Hospital Management System\obj\Debug\Hospital_Management_System.FormAppointmentList.resources
+C:\Users\mdsaz\source\repos\Hospital Management System\obj\Debug\Hospital_Management_System.FormEmployeeList.resources
+C:\Users\mdsaz\source\repos\Hospital Management System\obj\Debug\Hospital_Management_System.FormPatientList.resources
+C:\Users\mdsaz\source\repos\Hospital Management System\obj\Debug\Hospital_Management_System.FormScheduleList.resources
+C:\Users\mdsaz\source\repos\Hospital Management System\obj\Debug\Hospital_Management_System.FormAddBill.resources
+C:\Users\mdsaz\source\repos\Hospital Management System\obj\Debug\Hospital_Management_System.FormBillList.resources
+C:\Users\mdsaz\source\repos\Hospital Management System\bin\Debug\CircularProgressBar.dll
+C:\Users\mdsaz\source\repos\Hospital Management System\bin\Debug\WinFormAnimation.dll
+C:\Users\mdsaz\source\repos\Hospital Management System\bin\Debug\CircularProgressBar.xml
+C:\Users\mdsaz\source\repos\Hospital Management System\obj\Debug\Hospital_Management_System.FormSplashScreen.resources
+C:\Users\mdsaz\source\repos\Hospital Management System\obj\Debug\Hospital_Management_System.ShowDashboard.resources
